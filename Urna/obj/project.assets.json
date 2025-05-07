@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stacker\\Documents\\GitHub\\tempUrna\\Urna\\Urna.csproj",
+      "projectUniqueName": "C:\\Users\\stacker\\source\\repos\\Urna\\Urna\\Urna.csproj",
       "projectName": "Urna",
-      "projectPath": "C:\\Users\\stacker\\Documents\\GitHub\\tempUrna\\Urna\\Urna.csproj",
+      "projectPath": "C:\\Users\\stacker\\source\\repos\\Urna\\Urna\\Urna.csproj",
       "packagesPath": "C:\\Users\\stacker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stacker\\Documents\\GitHub\\tempUrna\\Urna\\obj\\",
+      "outputPath": "C:\\Users\\stacker\\source\\repos\\Urna\\Urna\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
