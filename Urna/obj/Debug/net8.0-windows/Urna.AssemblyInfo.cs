@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Urna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20222699d2da48e2b14cde4bfd9047cb443bfaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Urna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Urna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
